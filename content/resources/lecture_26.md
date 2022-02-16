@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on determining stability bounds in closed-loop systems,
   some basic properties of root locus plots, and root locus methods.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-004-dynamics-and-control-ii-spring-2008/1d064a95d6b00ce4e8683b3619507e5e_lecture_26.pdf
+file: /media/courses/2-004-dynamics-and-control-ii-spring-2008/1d064a95d6b00ce4e8683b3619507e5e_lecture_26.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 26
 uid: 1d064a95-d6b0-0ce4-e868-3b3619507e5e

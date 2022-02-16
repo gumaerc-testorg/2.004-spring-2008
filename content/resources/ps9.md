@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-004-dynamics-and-control-ii-spring-2008/3b90773b23096c3257f4f73f082606c9_ps9.pdf
+file: /media/courses/2-004-dynamics-and-control-ii-spring-2008/3b90773b23096c3257f4f73f082606c9_ps9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 9
 uid: 3b90773b-2309-6c32-57f4-f73f082606c9

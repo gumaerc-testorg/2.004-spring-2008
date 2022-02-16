@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on higher order systems and linear time-invariant system
   properties.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-004-dynamics-and-control-ii-spring-2008/8e6878353de8beaeacbab817cb8c314b_lecture_21.pdf
+file: /media/courses/2-004-dynamics-and-control-ii-spring-2008/8e6878353de8beaeacbab817cb8c314b_lecture_21.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 21
 uid: 8e687835-3de8-beae-acba-b817cb8c314b

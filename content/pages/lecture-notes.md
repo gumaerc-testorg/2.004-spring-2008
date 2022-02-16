@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 8ed54b04-44e9-89e3-2cf7-3a4b3a0078c1
 ---
@@ -193,7 +196,7 @@ Poles and zeros ([PDF]({{< baseurl >}}/resources/lecture_19))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Standard 1st and 2nd order system responses ([PDF]({{< baseurl >}}/resources/lecture_20))
+Standard 1{{< sup "st" >}} and 2{{< sup "nd" >}} order system responses ([PDF]({{< baseurl >}}/resources/lecture_20))
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes on closed-loop systems and steady-state errors.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-004-dynamics-and-control-ii-spring-2008/519745ee31d586a1320098c606fc31aa_lecture_24.pdf
+file: /media/courses/2-004-dynamics-and-control-ii-spring-2008/519745ee31d586a1320098c606fc31aa_lecture_24.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 24
 uid: 519745ee-31d5-86a1-3200-98c606fc31aa

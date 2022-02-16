@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture notes on root locus development, geometric evaluation of the
   transfer function, regions of the real axis on the root locus, and behavior of the
   root locus for large values of K.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-004-dynamics-and-control-ii-spring-2008/c876a2f5d522fd4229546d3cac251590_lecture_27.pdf
+file: /media/courses/2-004-dynamics-and-control-ii-spring-2008/c876a2f5d522fd4229546d3cac251590_lecture_27.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 27
 uid: c876a2f5-d522-fd42-2954-6d3cac251590
