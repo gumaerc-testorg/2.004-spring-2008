@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8be49c35-d622-84b9-3542-9b068070e01f
 resourcetype: Document
 title: 'Lab 4: Closed-loop Performance of a Proportional Velocity Controller'
 uid: 4cdb51c1-f689-c6bc-00c9-ef112b5db9d1

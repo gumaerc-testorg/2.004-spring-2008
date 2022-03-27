@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8be49c35-d622-84b9-3542-9b068070e01f
 resourcetype: Document
 title: 'Lab 1: Coulomb and Viscous Friction'
 uid: e796350c-568d-f03f-51bc-2bd475ba10d9

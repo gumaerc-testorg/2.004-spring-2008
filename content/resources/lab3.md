@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8be49c35-d622-84b9-3542-9b068070e01f
 resourcetype: Document
 title: 'Lab 3: Construction of a Proportional Velocity Controller'
 uid: cd34e5ef-80d0-4efc-3aa1-099620d5178f

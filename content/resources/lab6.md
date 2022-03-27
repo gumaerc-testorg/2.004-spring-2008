@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8be49c35-d622-84b9-3542-9b068070e01f
 resourcetype: Document
 title: 'Lab 6: Closed-loop Position Control, and the Effect of Derivative Control
   Action'

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8be49c35-d622-84b9-3542-9b068070e01f
 resourcetype: Document
 title: 'Lab 5: Elimination of Steady-state Error Using Integral Control Action'
 uid: fe3c3cd4-d0da-a663-de0c-89fb76511de4

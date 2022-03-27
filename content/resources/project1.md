@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8be49c35-d622-84b9-3542-9b068070e01f
 resourcetype: Document
 title: 'Lab: Active Damping of Tall Building Vibrations'
 uid: 135b95f1-2ea5-e77c-fedd-a365aef3ff8e

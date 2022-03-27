@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 8be49c35-d622-84b9-3542-9b068070e01f
 resourcetype: Document
 title: 'Laboratory Note: Description of the Experimental Rotational Plant'
 uid: ed33c2b4-180d-4a6b-5494-52156f4bf7cc
