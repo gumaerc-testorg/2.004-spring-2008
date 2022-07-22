@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and key dates for
+  the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: d9040684-cc76-e7e7-9269-901d9bf42ce6
 ---
@@ -283,7 +287,7 @@ Problem set 6 out
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Standard 1st and 2nd order system responses
+Standard 1{{< sup "st" >}} and 2{{< sup "nd" >}} order system responses
 {{< tdclose >}}
 {{< tdopen >}}
 Lab 6

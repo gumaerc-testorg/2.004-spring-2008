@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  course credits, textbook, references, laboratories, grading, makeups, grading policy,
+  and course ethics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f730053e-11d8-9472-f9aa-a3a7e926a713
 ---
