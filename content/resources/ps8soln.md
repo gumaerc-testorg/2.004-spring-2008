@@ -5,6 +5,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/c3f7ddd7adbb3b6b9b3a1f3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 8 Solutions
 uid: c3f7ddd7-adbb-3b6b-9b3a-1f3cf771652f
 ---
 Problem set solutions.
-

@@ -6,6 +6,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/fafd2d13bf7de84b1fffa44
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 19
 uid: fafd2d13-bf7d-e84b-1fff-a44ab8d85d97
 ---
 Lecture notes on system poles and zeros, the pole-zero plot, complex poles and zeros, and system stability.
-

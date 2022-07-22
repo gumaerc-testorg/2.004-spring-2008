@@ -5,6 +5,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/730ce5113c25e6e849f19b4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 11
 uid: 730ce511-3c25-e6e8-49f1-9b4d797aac33
 ---
 Lecture notes on transfer function generation using MATLAB and Maple.
-

@@ -5,6 +5,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/2cd1d6082fe3ba8a6a37fae
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 20
 uid: 2cd1d608-2fe3-ba8a-6a37-fae62b10051f
 ---
 Lecture notes on standard 1st and 2nd order system responses.
-

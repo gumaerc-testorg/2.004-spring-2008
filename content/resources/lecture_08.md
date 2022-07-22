@@ -5,6 +5,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/67b966a4bb9f704c3bf7771
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 8
 uid: 67b966a4-bb9f-704c-3bf7-7711869a5a95
 ---
 Lecture notes on modeling real components as Thevenin and Norton sources.
-

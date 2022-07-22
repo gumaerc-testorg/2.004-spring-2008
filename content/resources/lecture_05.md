@@ -5,6 +5,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/e4b5e76f2fe981e5870f8ad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 5
 uid: e4b5e76f-2fe9-81e5-870f-8ad122e831e3
 ---
 Lecture notes on modeling of physical and electrical systems.
-

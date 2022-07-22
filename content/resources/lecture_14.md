@@ -6,6 +6,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/c06ea910fbd7eb70cd197e3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ uid: c06ea910-fbd7-eb70-cd19-7e320d4dffa2
 ---
 Lecture notes on the modeling of rotational systems and updated tables of generalized elements to include rotational
 elements.
-

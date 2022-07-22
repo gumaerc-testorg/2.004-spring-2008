@@ -6,6 +6,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/381e305e911d0a131a31433
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 18
 uid: 381e305e-911d-0a13-1a31-433ac586aa90
 ---
 Lecture notes on common inputs used in control system design and analysis: delta, step, ramp, and sinusoid.
-

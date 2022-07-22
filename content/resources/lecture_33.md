@@ -6,6 +6,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/f8706caa7aecebcc533553f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 33
 uid: f8706caa-7aec-ebcc-5335-53fb154778d0
 ---
 Lecture notes on bode plots, logarithmic amplitude and frequency scales, asymptotic bode plots of low-order transfer functions.
-

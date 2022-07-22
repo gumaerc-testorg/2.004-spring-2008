@@ -6,6 +6,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/907bfad9a720190197cf87b
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Tall Building Active Damping
 uid: 907bfad9-a720-1901-97cf-87bbc37811fe
 ---
 Introduction to the final lab project on the design of an active damping system for a skyscraper.
-

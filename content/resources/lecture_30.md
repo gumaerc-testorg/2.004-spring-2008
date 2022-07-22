@@ -5,6 +5,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/8feaee5bdf326b4a67e08db
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 30
 uid: 8feaee5b-df32-6b4a-67e0-8dbdb4bc9971
 ---
 Lecture notes on sinusoidal system response.
-

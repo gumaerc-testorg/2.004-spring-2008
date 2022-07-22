@@ -7,6 +7,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/4cdb51c1f689c6bc00c9ef1
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Lab 4: Closed-loop Performance of a Proportional Velocity Controller'
 uid: 4cdb51c1-f689-c6bc-00c9-ef112b5db9d1
 ---
 Lab assignment on the 2.004 digital PID Controller, detailed study of the effect of controller gain on transient and steady-state behavior, and study of the ability of the closed-loop system to “follow” time varying commands.
-

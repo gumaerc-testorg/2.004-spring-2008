@@ -5,6 +5,7 @@ file: /courses/2-004-dynamics-and-control-ii-spring-2008/3190f4188f0a7ce0f2aec56
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 31
 uid: 3190f418-8f0a-7ce0-f2ae-c565001e9978
 ---
 Lecture notes on sinusoidal frequency response and pole-zero plots.
-
