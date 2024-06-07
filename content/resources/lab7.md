@@ -5,6 +5,7 @@ description: Lab assignment to investigate the use of multiple feedback loops, u
   dynamic response through the use of multiple loops, and compare your experimental
   results with a Simulink digital simulation.
 file: /courses/2-004-dynamics-and-control-ii-spring-2008/df42c4aeeb83b913f7fc1ef8057cb76e_lab7.pdf
+file_size: 103686
 file_type: application/pdf
 learning_resource_types:
 - Labs

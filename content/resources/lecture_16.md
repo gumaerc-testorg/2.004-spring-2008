@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on two-port components.
 file: /courses/2-004-dynamics-and-control-ii-spring-2008/3a9085636e84afa8f9f5010bdb313b5d_lecture_16.pdf
+file_size: 285229
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
