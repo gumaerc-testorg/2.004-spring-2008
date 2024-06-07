@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/2-004-dynamics-and-control-ii-spring-2008/94eb54e56635ae69dfa63b168991d778_ps1.pdf
+file_size: 85581
 file_type: application/pdf
 learning_resource_types:
 - Assignments

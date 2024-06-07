@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes with an introduction to system dynamics and control, linear
   system theory, and feedback control theory.
 file: /courses/2-004-dynamics-and-control-ii-spring-2008/1306269bcd3072f54c0f858a31234096_lecture_01.pdf
+file_size: 182105
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

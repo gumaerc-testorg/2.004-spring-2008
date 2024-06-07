@@ -3,6 +3,7 @@ content_type: resource
 description: Lab handout on a physical plant consisting of a rotational flywheel and
   motor.
 file: /courses/2-004-dynamics-and-control-ii-spring-2008/ed33c2b4180d4a6b549452156f4bf7cc_rotational_plant.pdf
+file_size: 227235
 file_type: application/pdf
 learning_resource_types:
 - Labs
