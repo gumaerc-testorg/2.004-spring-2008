@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on modeling real components as Thevenin and Norton sources.
 file: /courses/2-004-dynamics-and-control-ii-spring-2008/67b966a4bb9f704c3bf77711869a5a95_lecture_08.pdf
+file_size: 161457
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
