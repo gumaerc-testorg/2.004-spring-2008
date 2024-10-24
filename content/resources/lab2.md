@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab assignment on calibration of lab system components.
-file: /courses/2-004-dynamics-and-control-ii-spring-2008/182fe9be969f42f7f1aabd99e526719f_lab2.pdf
+file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/182fe9be969f42f7f1aabd99e526719f_lab2.pdf
 file_size: 284035
 file_type: application/pdf
 learning_resource_types:

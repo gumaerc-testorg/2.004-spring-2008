@@ -2,7 +2,7 @@
 content_type: resource
 description: Introductory lab assignment on the frictional characteristics of the
   rotational plant.
-file: /courses/2-004-dynamics-and-control-ii-spring-2008/e796350c568df03f51bc2bd475ba10d9_lab1.pdf
+file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/e796350c568df03f51bc2bd475ba10d9_lab1.pdf
 file_size: 166025
 file_type: application/pdf
 learning_resource_types:

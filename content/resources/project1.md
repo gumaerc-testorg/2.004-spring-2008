@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab assignment on active damping of tall building vibrations.
-file: /courses/2-004-dynamics-and-control-ii-spring-2008/135b95f12ea5e77cfedda365aef3ff8e_project1.pdf
+file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/135b95f12ea5e77cfedda365aef3ff8e_project1.pdf
 file_size: 219467
 file_type: application/pdf
 learning_resource_types:
