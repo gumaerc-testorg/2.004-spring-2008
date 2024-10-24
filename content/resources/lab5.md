@@ -3,7 +3,7 @@ content_type: resource
 description: Lab assignment to investigate the elimination of steady-state error through
   the use of integral (I) and proportional plus integral (PI) control, and to compare
   your experimental results with a Simulink digital simulation.
-file: /courses/2-004-dynamics-and-control-ii-spring-2008/fe3c3cd4d0daa663de0c89fb76511de4_lab5.pdf
+file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/fe3c3cd4d0daa663de0c89fb76511de4_lab5.pdf
 file_size: 191668
 file_type: application/pdf
 learning_resource_types:

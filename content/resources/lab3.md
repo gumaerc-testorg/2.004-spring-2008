@@ -5,7 +5,7 @@ description: Lab assignment on construction and testing of an op-amp differentia
   for the 2.004 rotational plant, measurement of the transient response characteristics,
   and the steady-state behavior of the closed-loop controller, and comparison of the
   measured performance with predictions based on the pre-lab exercise.
-file: /courses/2-004-dynamics-and-control-ii-spring-2008/cd34e5ef80d04efc3aa1099620d5178f_lab3.pdf
+file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/cd34e5ef80d04efc3aa1099620d5178f_lab3.pdf
 file_size: 130668
 file_type: application/pdf
 learning_resource_types:
