@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on frequency response and the pole-zero plot, phase response,
   behavior in the proximity of poles and zeros close to the imaginary axis, logarithmic
   (Bode) plots, and logarithmic amplitude and frequency scales.
-file: /courses/2-004-dynamics-and-control-ii-spring-2008/2a0a97261561177bf1a91b07202bb09a_lecture_32.pdf
+file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/2a0a97261561177bf1a91b07202bb09a_lecture_32.pdf
 file_size: 232504
 file_type: application/pdf
 learning_resource_types:

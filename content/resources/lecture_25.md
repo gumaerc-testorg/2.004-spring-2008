@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on system stability and the Routh-Hurwitz criterion.
-file: /courses/2-004-dynamics-and-control-ii-spring-2008/e098a44ee402a52174eb0f205c5d542f_lecture_25.pdf
+file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/e098a44ee402a52174eb0f205c5d542f_lecture_25.pdf
 file_size: 185746
 file_type: application/pdf
 learning_resource_types:
