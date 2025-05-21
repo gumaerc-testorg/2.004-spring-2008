@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on block diagram algebra, interconnection rules, the \u201C\
   closed-loop\u201D transfer function, and sensor dynamics."
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/ef438d1fe175ba58bb9a2fdeadebbc0b_lecture_04.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/ef438d1fe175ba58bb9a2fdeadebbc0b_lecture_04.pdf
 file_size: 179918
 file_type: application/pdf
 learning_resource_types:

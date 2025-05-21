@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on modeling electrical systems, interconnection laws, Kirchoff's
   laws, electrical impedance, and circuit equations.
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/01ccd24b77fd9958786947fd1b3970cd_lecture_06.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/01ccd24b77fd9958786947fd1b3970cd_lecture_06.pdf
 file_size: 255900
 file_type: application/pdf
 learning_resource_types:

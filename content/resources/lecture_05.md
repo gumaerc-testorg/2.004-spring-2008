@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on modeling of physical and electrical systems.
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/e4b5e76f2fe981e5870f8ad122e831e3_lecture_05.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/e4b5e76f2fe981e5870f8ad122e831e3_lecture_05.pdf
 file_size: 179311
 file_type: application/pdf
 learning_resource_types:

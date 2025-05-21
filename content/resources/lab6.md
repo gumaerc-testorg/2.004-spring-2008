@@ -5,7 +5,7 @@ description: "Lab assignment to investigate closed-loop control of the angular p
   \ dynamic response through the use of derivative (D), and proportional and derivative\
   \ (PD) control, and to compare your experimental results with a Simulink digital\
   \ simulation."
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/437bb92879e0343c7b51192c5606bbd1_lab6.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/437bb92879e0343c7b51192c5606bbd1_lab6.pdf
 file_size: 118791
 file_type: application/pdf
 learning_resource_types:

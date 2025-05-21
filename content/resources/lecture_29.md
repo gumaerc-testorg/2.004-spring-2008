@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on root locus sketching rules, root locus refinement, and
   MATLAB root locus functions.
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/ac8a0a04b56bb32c627404194a512147_lecture_29.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/ac8a0a04b56bb32c627404194a512147_lecture_29.pdf
 file_size: 207622
 file_type: application/pdf
 learning_resource_types:
