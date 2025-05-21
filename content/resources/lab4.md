@@ -3,7 +3,7 @@ content_type: resource
 description: "Lab assignment on the 2.004 digital PID Controller, detailed study of\
   \ the effect of controller gain on transient and steady-state behavior, and study\
   \ of the ability of the closed-loop system to \u201Cfollow\u201D time varying commands."
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/4cdb51c1f689c6bc00c9ef112b5db9d1_lab4.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/4cdb51c1f689c6bc00c9ef112b5db9d1_lab4.pdf
 file_size: 227716
 file_type: application/pdf
 learning_resource_types:

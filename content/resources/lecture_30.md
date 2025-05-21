@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on sinusoidal system response.
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/8feaee5bdf326b4a67e08dbdb4bc9971_lecture_30.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/8feaee5bdf326b4a67e08dbdb4bc9971_lecture_30.pdf
 file_size: 215082
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on finding the time-domain response of systems with finite
   zeros and where the order of the numerator equals the order of the denominator.
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/2ba9e236baa739f8a2e91ad9efe0dd33_lecture_22.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/2ba9e236baa739f8a2e91ad9efe0dd33_lecture_22.pdf
 file_size: 169295
 file_type: application/pdf
 learning_resource_types:

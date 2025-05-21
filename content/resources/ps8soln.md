@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set solutions.
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/c3f7ddd7adbb3b6b9b3a1f3cf771652f_ps8soln.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/c3f7ddd7adbb3b6b9b3a1f3cf771652f_ps8soln.pdf
 file_size: 76340
 file_type: application/pdf
 learning_resource_types:
