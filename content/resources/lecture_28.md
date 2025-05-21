@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on root locus development.
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/67c742fd332eaeb4264676df87e9dc79_lecture_28.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/67c742fd332eaeb4264676df87e9dc79_lecture_28.pdf
 file_size: 186127
 file_type: application/pdf
 learning_resource_types:

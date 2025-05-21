@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on rotational systems, transfer function generation using
   mesh/loop equations, transfer function generation using node equations.
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/0f6ce7af67765e461181485109895ad9_lecture_15.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/0f6ce7af67765e461181485109895ad9_lecture_15.pdf
 file_size: 216582
 file_type: application/pdf
 learning_resource_types:

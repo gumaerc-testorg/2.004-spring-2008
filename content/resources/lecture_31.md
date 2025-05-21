@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on sinusoidal frequency response and pole-zero plots.
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/3190f4188f0a7ce0f2aec565001e9978_lecture_31.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/3190f4188f0a7ce0f2aec565001e9978_lecture_31.pdf
 file_size: 250711
 file_type: application/pdf
 learning_resource_types:

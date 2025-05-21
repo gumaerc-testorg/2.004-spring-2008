@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on modeling the impedance of mechanical components.
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/20cee7a4963094d7e0e68c2efc2dcacd_lecture_10.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/20cee7a4963094d7e0e68c2efc2dcacd_lecture_10.pdf
 file_size: 202045
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on dynamics and control using the example of cruise control.
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/52c257f95f0b1e4120cfcece6918e263_lecture_02.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/52c257f95f0b1e4120cfcece6918e263_lecture_02.pdf
 file_size: 177837
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on generalized system modeling and transfer function generation.
-file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/3967a4a3568cf2e0345809d9cd2a3de0_lecture_13.pdf
+file: /courses/2-004-dynamics-and-control-ii-spring-2008/3967a4a3568cf2e0345809d9cd2a3de0_lecture_13.pdf
 file_size: 236753
 file_type: application/pdf
 learning_resource_types:
