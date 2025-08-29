@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on higher order systems and linear time-invariant system
   properties.
-file: /courses/2-004-dynamics-and-control-ii-spring-2008/8e6878353de8beaeacbab817cb8c314b_lecture_21.pdf
+file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/8e6878353de8beaeacbab817cb8c314b_lecture_21.pdf
 file_size: 209872
 file_type: application/pdf
 learning_resource_types:
