@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: A brief description of the 2.004 lab facilities and rules.
-file: /courses/2-004-dynamics-and-control-ii-spring-2008/e4721e534781974b0c99eab3eddb4a66_descript.pdf
+file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/e4721e534781974b0c99eab3eddb4a66_descript.pdf
 file_size: 79536
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
