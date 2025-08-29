@@ -2,11 +2,11 @@
 content_type: resource
 description: Introduction to the final lab project on the design of an active damping
   system for a skyscraper.
-file: /courses/2-004-dynamics-and-control-ii-spring-2008/907bfad9a720190197cf87bbc37811fe_tower_slides.pdf
+file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/907bfad9a720190197cf87bbc37811fe_tower_slides.pdf
 file_size: 180784
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

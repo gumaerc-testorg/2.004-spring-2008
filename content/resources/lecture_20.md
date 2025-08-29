@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on standard 1st and 2nd order system responses.
-file: /courses/2-004-dynamics-and-control-ii-spring-2008/2cd1d6082fe3ba8a6a37fae62b10051f_lecture_20.pdf
+file: /ol-ocw-studio-app/courses/2-004-dynamics-and-control-ii-spring-2008/2cd1d6082fe3ba8a6a37fae62b10051f_lecture_20.pdf
 file_size: 204684
 file_type: application/pdf
 learning_resource_types:
