@@ -11,7 +11,7 @@ uid: fa2f0923-739a-3c19-bfe6-5b7da391e2b7
 
 This page contains homework assignments and solutions for the semester.
 
-Problem Set 2 refers to the spec sheet for the Maxon motor, here ([PDF](http://www.maxonmotor.com/medias/sys_master/8804419338270/DC-Das-wichtigste-ueber-maxonmotoren_11_DE-EN_ES_036-1.pdf))
+Problem Set 2 refers to the spec sheet for the Maxon motor, here ({{% resource_link "50b47985-478f-4b1d-b0d0-713f312ecbde" "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
