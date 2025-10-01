@@ -13,7 +13,7 @@ A brief description of the 2.004 lab facilities and rules is provided for refere
 
 The first seven labs deal with a physical plant consisting of a rotational flywheel and motor, detailed in this handout ({{% resource_link ed33c2b4-180d-4a6b-5494-52156f4bf7cc "PDF" %}}) (Courtesy Prof. Emanuel Sachs. Used with permission.)
 
-The motor specification sheet may be found here ([PDF](http://www.maxonmotor.com/medias/sys_master/8804419338270/DC-Das-wichtigste-ueber-maxonmotoren_11_DE-EN_ES_036-1.pdf))
+The motor specification sheet may be found here ({{% resource_link "50b47985-478f-4b1d-b0d0-713f312ecbde" "PDF" %}})
 
 Lab 1: Coulomb and Viscous Friction ({{% resource_link e796350c-568d-f03f-51bc-2bd475ba10d9 "PDF" %}})
 
